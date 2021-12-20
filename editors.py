@@ -5,6 +5,3 @@ class Editor:
     def SmallStartswithEmail(accounts):
         for each in accounts:
             if each[0].islower(): yield each
-
-
-
